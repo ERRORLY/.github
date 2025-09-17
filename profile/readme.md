@@ -25,8 +25,8 @@ The entire purpose of errorly is build stuff that are usefull for average user, 
 
 ## [Projects](https://errorly.github.io/projects):
 Since we have just started the errorly project seriously, there is not much projects to share for now, the projects that are active:
- - [SumCode](/sumcode) - A website to generate Code For Free, and the website is also opensource for anyone to look in the code
- - [Laukey](/laukey) - A Feature Rich Password Manager with Beutiful UI with lots of features
+ - [SumCode](https://errorly.github.io/sumcode) - A website to generate Code For Free, and the website is also opensource for anyone to look in the code
+ - [Laukey](https://errorly.github.io/Laukey) - A Feature Rich Password Manager with Beutiful UI with lots of features
 
 In future there will be more Projects
 
