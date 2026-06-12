@@ -23,18 +23,4 @@
 ## [About](https://errorly.github.io)
 The entire purpose of errorly is build stuff that are usefull for average user, thou our most of the project is open source and free to use, we also want to make products that makes us money, the reason is not to make profit but more of to maintain and expand errorly so we can provide more quality products to you guys for free.
 
-## [Projects](https://errorly.github.io/projects):
-Since we have just started the errorly project seriously, there is not much projects to share for now, the projects that are active:
- - [SumCode](https://errorly.github.io/sumcode) - A website to generate Code For Free, and the website is also opensource for anyone to look in the code
- - [Laukey](https://errorly.github.io/Laukey) - A Feature Rich Password Manager with Beutiful UI with lots of features
-
-In future there will be more Projects
-
-## [Community](https://errorly.github.io/community):
-We are currently trying to build a Community so we can be motivated and find members to maintain the errorly, if you want to connect to us or have some queries, feel free to visit [here](https://errorly.github.io/community)
- <!--<div style="display:flex; align-items: center; justify-content: center; gap: 30px;">
-     <a href="https://discord.gg/JwfsagYANM" target="_blank">Discord</a>
-     <a href="mailto:errorlydev@gmail.com" target="_blank">Gmail</a>
-     <a href="https://x.com/ErrorlyDev" target="_blank">Twitter</a>
-     <a href="https://github.com/ERRORLY" target="_blank">GitHub</a>
- </div>-->
+- **checkout the projects from [here](https://errorly.github.io/projects)**
