@@ -21,6 +21,6 @@
 </div>
 
 ## [About](https://errorly.github.io)
-The entire purpose of errorly is build stuff that are usefull for average user, thou our most of the project is open source and free to use, we also want to make products that makes us money, the reason is not to make profit but more of to maintain and expand errorly so we can provide more quality products to you guys for free.
+The entire purpose of errorly is build stuff that are useful
 
 - **checkout the projects from [here](https://errorly.github.io/projects)**
